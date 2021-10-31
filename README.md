@@ -18,8 +18,8 @@ The entire help taken will creating this project was from www.google.com.
 
 
 # Contributor
-Name : Ankit Raj Biswal
-Registration No. : 1941012238
+Name : Joy Deep Paira
+Registration No. : 1941012611
 College: Institute of Technical Education and Research 
 
 ## Rest You are Good to Go!!!  :metal:  :beers:
